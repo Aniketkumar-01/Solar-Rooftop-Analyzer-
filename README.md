@@ -4,7 +4,6 @@ A Streamlit application that helps estimate rooftop solar potential — combinin
 satellite-based rooftop tracing with energy, carbon, and financial projections.
 
 🔗 **Live app:** https://solar-rooftop-analyzer.streamlit.app/
-💻 **Repo:** https://github.com/Aniketkumar-01/Solar-Rooftop-Analyzer-
 
 ## Features
 
