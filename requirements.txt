@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+streamlit-folium
+folium
+shapely
+streamlit-searchbox
